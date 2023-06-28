@@ -1,0 +1,9 @@
+pyreadline
+psutil
+pycryptodome
+pyperclip
+colorama
+psutil
+pygame
+windows-curses
+scapy
